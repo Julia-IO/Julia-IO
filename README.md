@@ -4,7 +4,7 @@
 ---
 
 - 👩‍💻 I’ve recently obtained my Diploma in Full Stack Software Dewvelopment with Code Institute
-- 🖥 I’m looking to contribute to open source projects on completion of the course as well as make a career change
+- 🖥 I’m looking to contribute to open source projects as well as keep coding and learning new languages and technologies
 - 📨 How to reach me: [LinkedIn](https://www.linkedin.com/in/juliadiezlopez/) or you can visit my [Website](https://www.juliadiezlopez.com) 
 - 🎸 Fun fact #1: I love playing bass 
 - 🎓 Fun fact #2: I have a BSc(hons) in Translation and Languages Interpreting + Master Studies in Linguistics and Compared Literature. I've worked for over 10 years as a professional translator and localisation manager.
