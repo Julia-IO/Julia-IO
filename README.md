@@ -3,7 +3,6 @@
 
 ---
 
-- 👩‍💻 I’ve recently obtained my Diploma in Full Stack Software Development with Code Institute
 - 🖥 I’m looking to contribute to open source projects as well as keep coding and learning new languages and technologies
 - 📨 How to reach me: [LinkedIn](https://www.linkedin.com/in/juliadiezlopez/) or you can visit my [Website](https://www.juliadiezlopez.com) 
 - 🎸 Fun fact #1: I love playing bass 
