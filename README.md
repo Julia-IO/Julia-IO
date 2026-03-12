@@ -1,42 +1,69 @@
-### Hi, I'm Julia Díez 👋
-### A Full Stack Engineer with a strong knowledge of testing methodologies, proven bug detection, isolation and regression skills.
+<!-- Julia Diez — GitHub Profile README -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║   SEMANTIC GOVERNANCE FOR MULTILINGUAL AI SYSTEMS   ║
+╚══════════════════════════════════════════════════════╝
+```
+
+# Julia Diez
+
+**Globalization engineer · Semantic infrastructure builder · Founder, [Black Ice](https://black-ice.ai)**
+
+*Cork, Ireland*
+
+</div>
 
 ---
 
-- 🖥 I’m looking to contribute to open source projects as well as keep coding and learning new languages and technologies
-- 📨 How to reach me: [LinkedIn](https://www.linkedin.com/in/juliadiezlopez/) or you can visit my [Website](https://www.juliadiezlopez.com) 
-- 🎸 Fun fact #1: I love playing bass 
-- 🎓 Fun fact #2: I have a BSc(hons) in Translation and Languages Interpreting + Master Studies in Linguistics and Compared Literature. I've worked for over 10 years as a professional translator and localisation manager.
-- 📸 Other hobbies: photography, movies and surfing
+### What I work on
+
+I build the layer between AI and language that most teams forget exists.
+
+**[Black Ice](https://black-ice.ai)** is a semantic governance platform for multilingual AI workflows — enforcing terminological consistency, ontology-based constraints, and language-pair equivalents across LLM pipelines before drift becomes a product problem.
+
+Before Black Ice: localization engineering on Apple's Siri team, working at the intersection of NLP, voice UX, and cross-market language quality.
 
 ---
 
-### Languages, Frameworks and Tools:
+### The problem I'm solving
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+LLMs hallucinate terminology. They translate when they should transcreate. They flatten register, collapse brand voice, and violate market-specific constraints — silently, at scale.
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+Semantic governance isn't a post-processing fix. It's infrastructure.
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirstChat&layout=compact&theme=dark)](https://github.com/KirstChat/github-readme-stats)
 ---
 
-### Here are the last milestone projects I've completed in the course:
-  
-[Hello Tester: from code to delivery](https://github.com/Julia-IO/Interactive_Frontend_Development_Milestone_Project_Hello_Tester) - **Interactive Frontent Development Milestone Project** 
-- HTML/CSS/Bootstrap/Javascript
+### Current focus
 
-[Botsi: A Linguist Portal Management System](https://github.com/Julia-IO/Linguist_Portal) - **Data Centric Development Milestone Project**
-- HTML/CSS/Bootstrap/JavaScript/jQuery/Flask/MongoDB/Python
+- 🧊 **Black Ice** — ontology-governed localization for AI content pipelines
+- 📡 **[The AI-Ready Localizer](https://substack.com)** — writing for localization professionals, product teams, and global GTM
+- 🎓 **AI-Assisted Localization Pipelines** — a practitioner course covering Claude Code, GitHub Actions, and agentic workflow design
 
-[Nativo Beans](https://github.com/Julia-IO/nativo_beans) - **Full Stack Frameworks with Django Milestone Project**
-- HTML/CSS/Materialize/jQuery/Python/Flask/MongoDB/Django/Bootstrap/Heroku/AWS/Stripe
+---
+
+### Stack & tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![TBX/ISO 30042](https://img.shields.io/badge/TBX%20%7C%20ISO_30042-555?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-0A0A0A?style=flat-square)
+
+---
+
+### Writing
+
+> *"The ontology isn't a dictionary. It's a constraint system that runs before the model speaks."*
+
+→ [The AI-Ready Localizer on Substack](https://substack.com) — semantic governance, agentic pipelines, and what the localization industry needs to know about AI infrastructure
+
+---
+
+<div align="center">
+
+**[black-ice.ai](https://black-ice.ai)** · [Substack](https://substack.com) · [LinkedIn](https://linkedin.com)
+
+</div>
