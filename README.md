@@ -39,7 +39,7 @@ Semantic governance isn't a post-processing fix. It's infrastructure.
 ### Current focus
 
 - 🧊 **Black Ice** — ontology-governed localization for AI content pipelines
-- 📡 **[The AI-Ready Localizer](https://juliadiez.substack.com/)** — writing for localization professionals, product teams, and global GTM
+- 📡 **[Elsewhere](https://juliadiez.substack.com/)** — writing for localization professionals, product teams, and global GTM
 - 🎓 **AI-Assisted Localization Pipelines** — a practitioner course covering Claude Code, GitHub Actions, and agentic workflow design
 
 ---
