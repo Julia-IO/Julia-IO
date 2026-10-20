@@ -58,7 +58,7 @@ Semantic governance isn't a post-processing fix. It's infrastructure.
 
 > *"The ontology isn't a dictionary. It's a constraint system that runs before the model speaks."*
 
-→ [The AI-Ready Localizer on Substack](https://juliadiez.substack.com/) — semantic governance, agentic pipelines, and what the localization industry needs to know about AI infrastructure
+→ [Elsewhere on Substack](https://juliadiez.substack.com/) — semantic governance, agentic pipelines, and what the localization industry needs to know about AI infrastructure
 
 ---
 
