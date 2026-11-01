@@ -24,7 +24,7 @@ I build the layer between AI and language that most teams forget exists.
 
 **[Black Ice](https://black-ice.ai)** is a semantic governance platform for multilingual AI workflows — enforcing terminological consistency, ontology-based constraints, and language-pair equivalents across LLM pipelines before drift becomes a product problem.
 
-Before Black Ice: localization engineering on Apple's Siri team, working at the intersection of NLP, voice UX, and cross-market language quality.
+AI engineer for global experiences at SAS. Ex-Apple Siri & McAfee localization. Founder of Black Ice: semantic governance for multilingual AI.
 
 ---
 
