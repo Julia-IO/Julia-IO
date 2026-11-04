@@ -12,7 +12,7 @@
 
 **Globalization engineer · Semantic infrastructure builder · Founder, [Black Ice](https://black-ice.ai)**
 
-*Cork, Ireland*
+*Cantabria, Spain*
 
 </div>
 
