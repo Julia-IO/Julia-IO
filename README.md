@@ -1,16 +1,16 @@
-<!-- Julia Diez — GitHub Profile README -->
+<!-- Julia Díez — GitHub Profile README -->
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║   SEMANTIC GOVERNANCE FOR MULTILINGUAL AI SYSTEMS   ║
+║     LANGUAGE  ·  AI  ·  AND THE CODE IN BETWEEN      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
-# Julia Diez
+# Julia Díez
 
-**Globalization engineer · Semantic infrastructure builder · Founder, [Black Ice](https://black-ice.ai)**
+**Linguist · AI enablement engineer · i18n tooling · Open learning resources**
 
 *Cantabria, Spain*
 
@@ -18,51 +18,75 @@
 
 ---
 
-### What I work on
+### 👋 Hi, I'm Julia
 
-I build the layer between AI and language that most teams forget exists.
+I'm a linguist who builds software. Most of what lives here sits where language meets code:
 
-**[Black Ice](https://black-ice.ai)** is a semantic governance platform for multilingual AI workflows — enforcing terminological consistency, ontology-based constraints, and language-pair equivalents across LLM pipelines before drift becomes a product problem.
+- **i18n tools** that catch localization problems in a codebase before a translator ever sees them
+- **Experiments in AI-driven localization**, with agents, MCP and GitHub Actions doing the repetitive work
+- **Free educational resources** that help children, teachers and parents understand AI and learn with it
 
-
----
-
-### The problem I'm solving
-
-LLMs hallucinate terminology. They translate when they should transcreate. They flatten register, collapse brand voice, and violate market-specific constraints — silently, at scale.
-
-Semantic governance isn't a post-processing fix. It's infrastructure.
+Everything is practical, open and meant to be used.
 
 ---
 
-### Current focus
+### 🌍 i18n & localization tools
 
-- 🧊 **[Black Ice](https://black-ice.ai)** — ontology-governed localization for AI content pipelines
-- 📡 **[Elsewhere](https://juliadiez.substack.com/)** — writing for localization professionals, product teams, and global GTM
-- 🎓 **AI-Assisted Localization Pipelines** — a practitioner course covering Claude Code, GitHub Actions, and agentic workflow design
+| Project | What it does |
+| --- | --- |
+| **[i18n-audit](https://github.com/Julia-IO/i18n-audit)** | A zero-dependency i18n linter. It finds hardcoded strings, sentences glued together from pieces and hand-rolled plurals, scores how much context your key names give translators, and checks translations for missing keys, placeholders and plural forms. Works with React, Vue, Svelte and Flutter. |
+| **[echocraft-locales](https://github.com/Julia-IO/echocraft-locales)** | An experiment in zero-touch localization. Claude Code agents transcreate and audit UI strings on every pull request and every week, governed by a terminology ontology over MCP. Humans review; they don't write strings. |
+
+Try the linter on your own project, no install needed:
+
+```bash
+npx github:Julia-IO/i18n-audit path/to/your/project
+```
 
 ---
 
-### Stack & tools
+### 🎓 Educational resources
 
+Free, ready to use in any browser, and licensed **CC BY 4.0**, so you can share and adapt them.
+
+| Collection | For | What's inside |
+| --- | --- | --- |
+| **[AI education resources](https://github.com/Julia-IO/ai-education-resources)** | Ages 12–16 · teachers and parents | Game-style classroom sessions on AI literacy and online safety: [Level Up: AI & You](https://julia-io.github.io/ai-education-resources/Sessions/Level-Up-AI-and-You.html) and [Level Up 2: How Apps Really Work](https://julia-io.github.io/ai-education-resources/Sessions/Level-Up-2-How-Apps-Really-Work.html) |
+| **[AI-built learning resources](https://github.com/Julia-IO/ai-built-learning-resources)** | Ages 8–9 | Interactive maths practice built with AI: [Mission: Order of Operations](https://julia-io.github.io/ai-built-learning-resources/Ages-8-9/Math/Mission-Order-Of-Operations.html), [Problem Detectives](https://julia-io.github.io/ai-built-learning-resources/Ages-8-9/Math/Problem-Detectives.html) and [Times Tables](https://julia-io.github.io/ai-built-learning-resources/Ages-8-9/Math/Times-Tables.html) |
+
+New age levels and subjects are on the way. Contributions and classroom feedback are welcome.
+
+---
+
+### 🧊 Also building
+
+**[Black Ice](https://black-ice.ai)**: semantic governance for multilingual AI pipelines. It keeps terminology, register and market constraints consistent across LLM workflows.
+
+---
+
+### 🛠 Stack & tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![TBX/ISO 30042](https://img.shields.io/badge/TBX%20%7C%20ISO_30042-555?style=flat-square)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-0A0A0A?style=flat-square)
+![i18n](https://img.shields.io/badge/i18n-ICU_·_i18next_·_ARB-555?style=flat-square)
+![TBX/ISO 30042](https://img.shields.io/badge/TBX%20%7C%20ISO_30042-555?style=flat-square)
 
 ---
 
-### Writing
+### ✍️ Writing
 
-> *"The ontology isn't a dictionary. It's a constraint system that runs before the model speaks."*
-
-→ [Elsewhere on Substack](https://juliadiez.substack.com/) — semantic governance, agentic pipelines, and what the localization industry needs to know about AI infrastructure
+**[Elsewhere on Substack](https://juliadiez.substack.com/)**: localization, i18n, agentic workflows, and what AI changes for people who work with language.
 
 ---
 
 <div align="center">
 
-**[black-ice.ai](https://black-ice.ai)** · [Substack](https://juliadiez.substack.com/) · [LinkedIn](https://www.linkedin.com/in/juliadiezlopez/)
+[Substack](https://juliadiez.substack.com/) · [LinkedIn](https://www.linkedin.com/in/juliadiezlopez/) · [black-ice.ai](https://black-ice.ai)
 
 </div>
